@@ -26,7 +26,7 @@
                     <font class="ilera-logo-sub">| E-COMMERCE PROJECT</font>
                 </td>
                 <td width="10%">
-                   <a href=`login.php`  class="non-style-link"><p class="nav-item">LOGIN</p></a>
+                   <a href='login.php'  class="non-style-link"><p class="nav-item">LOGIN</p></a>
                 </td>
                 <td  width="10%">
                     <a href="signup.php" class="non-style-link"><p class="nav-item" style="padding-right: 10px;">REGISTER</p></a>
